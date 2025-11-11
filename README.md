@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Igor!
 I am an engineer at heart and a senior software developer with years of comercial experience in building and maintaining IT systems. Aside from my main skill - programming - I posses a various amount of other skills ranging from CAD design, PCB design and 3D modeling. I'm a quick learner and my adaptability to different tech stacks enables me to tackle diverse challenges. I'm known for my attention to detail and ability to visualize solutions, which enhances teamwork. In free time I expand my knowladge in different topics. My favourite topic is ML and NLP.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IgorSantarek) 
 
 [![3D Humanoid Procedural Walk Animation in Godot](https://img.youtube.com/vi/8DCk9hhp9GA/0.jpg)](https://www.youtube.com/watch?v=8DCk9hhp9GA)
