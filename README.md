@@ -1,5 +1,6 @@
 # 💫 Hi, I'm Igor!
-I am an engineer at heart and a senior software developer with years of comercial experience in building and maintaining IT systems. Aside from my main skill - programming - I posses a various amount of other skills ranging from CAD design, PCB design and 3D modeling. I'm a quick learner and my adaptability to different tech stacks enables me to tackle diverse challenges. I'm known for my attention to detail and ability to visualize solutions, which enhances teamwork. In free time I expand my knowladge in different topics. My favourite topic is ML and NLP.
+
+I am an engineer at heart and a senior software developer with years of commercial experience in building and maintaining IT systems. Besides programming, I also have skills in CAD, PCB design, and 3D modeling. I'm a quick learner and my adaptability to different tech stacks enables me to tackle diverse challenges. I’m detail-oriented and can visualize solutions, which improves teamwork. In free time I expand my knowledge in different topics. My favourite topic is ML and NLP.
 
 # 🦾 My work
 
