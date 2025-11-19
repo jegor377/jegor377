@@ -18,9 +18,13 @@ The project explores machine-learning approaches to classifying the truthfulness
 
 The project focuses on building a small autonomous vehicle capable of navigating a predefined route with high positional accuracy. The initial goal is to reach the target location with an arrival error on the order of a few centimeters, acknowledging that millimeter-level precision is beyond the current scope.
 
-The system allows for free control mode and preprogrammed path execution mode. The vehicle chassis is fully designed in CAD and manufactured on a 3D printer. The electronics are implemented on a custom PCB built around an ESP32 microcontroller, an H-bridge motor driver (TBXXXX), a lithium-ion battery, and a charging system made with XXX and charging protection using YYY. An accelerometer is included in the hardware design, although it provides limited practical value due to drift and measurement noise; future revisions will incorporate a wheel encoder to achieve reliable odometry and improve navigation accuracy.
+The system allows for free control mode and preprogrammed path execution mode. The vehicle chassis is fully designed in CAD and manufactured on a 3D printer. The electronics are implemented on a custom PCB built around an ESP32 microcontroller, an H-bridge motor driver (TB6612FNG), a lithium-ion battery, and a charging system made with TP4056 and charging protection using DW01. An accelerometer ADXL345 is included in the hardware design, although it provides limited practical value due to drift and measurement noise; future revisions will incorporate a wheel encoder to achieve reliable odometry and improve navigation accuracy.
 
 ## Demo website (HTML, CSS, JS)
+
+Link: [Demo](https://github.com/jegor377/pierogi-website)
+
+A demo website for assessing web design skills made in 2021.
 
 ## TURBO BOUNCE (Godot, GDScript)
 
@@ -36,11 +40,28 @@ A GIF library for Godot that allows for creating GIF files with and without anim
 
 ## Procedural animation implementation (Godot, GDScript)
 
-## Gym app (Dart)
+- [Code](https://github.com/jegor377/ProceduralWalk)
+- [Video](https://www.youtube.com/watch?v=8DCk9hhp9GA)
+
+Procedural walk animation system for humanoid in made in Godot Engine.
+
+## Gym app (Flutter, Dart)
+
+Link: [Smart Coach](https://github.com/jegor377/SmartCoach)
+
+A Flutter app for creating and using training plans, with reminders on selected days. Built in about a week.
 
 ## CLI task orchestration tool (Python)
 
+Link: [tasks](https://github.com/jegor377/tasks)
+
+Small and powerful CLI tool that allows you to make recursive todo lists and enables time cost estimation.
+
 ## BF compiler (C++)
+
+Link: [BF Compiler](https://github.com/jegor377/BrainfuckCompiler)
+
+A compiler for BF language. It works by creating Assembly code for the BF code and then compiles the Assembly code with its compiler.
 
 # 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IgorSantarek) 
