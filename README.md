@@ -18,7 +18,7 @@ The project explores machine-learning approaches to classifying the truthfulness
 
 The project focuses on building a small autonomous vehicle capable of navigating a predefined route with high positional accuracy. The initial goal is to reach the target location with an arrival error on the order of a few centimeters, acknowledging that millimeter-level precision is beyond the current scope.
 
-The system allows for free control mode and preprogrammed path execution mode. The vehicle chassis is fully designed in CAD and manufactured on a 3D printer. The electronics are implemented on a custom PCB built around an ESP32 microcontroller, an H-bridge motor driver (TB6612FNG), a lithium-ion battery, and a charging system made with TP4056 and charging protection using DW01. An accelerometer ADXL345 is included in the hardware design, although it provides limited practical value due to drift and measurement noise; future revisions will incorporate a wheel encoder to achieve reliable odometry and improve navigation accuracy.
+The system allows for free control mode and preprogrammed path execution mode. Communication with the vehicle is achieved via Bluetooth. The vehicle chassis is fully designed in CAD and manufactured on a 3D printer. The electronics are implemented on a custom PCB built around an ESP32 microcontroller, an H-bridge motor driver (TB6612FNG), a lithium-ion battery, and a charging system made with TP4056 and charging protection using DW01. An accelerometer ADXL345 is included in the hardware design, although it provides limited practical value due to drift and measurement noise; future revisions will incorporate a wheel encoder to achieve reliable odometry and improve navigation accuracy.
 
 ## Demo website (HTML, CSS, JS)
 
