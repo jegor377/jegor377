@@ -1,6 +1,47 @@
 # 💫 Hi, I'm Igor!
 I am an engineer at heart and a senior software developer with years of comercial experience in building and maintaining IT systems. Aside from my main skill - programming - I posses a various amount of other skills ranging from CAD design, PCB design and 3D modeling. I'm a quick learner and my adaptability to different tech stacks enables me to tackle diverse challenges. I'm known for my attention to detail and ability to visualize solutions, which enhances teamwork. In free time I expand my knowladge in different topics. My favourite topic is ML and NLP.
 
+# 🦾 My work
+
+## My engineering thesis (NLP, ML, AI, Python)
+
+- Thesis
+- [Exploratory data analysis](https://github.com/jegor377/liar_plus_analysis)
+- [Classifier](https://github.com/jegor377/thesis_classifier)
+
+The project explores machine-learning approaches to classifying the truthfulness of text. It evaluates whether augmenting the input with automatically generated content can improve classification performance. The system uses a RoBERTa-based encoder, and the generated content consists of synthesized articles derived from the original input. The project also includes a demo application for testing and demonstrating the solution.
+
+## Small autonomous vehicles (C++, Embedeed, ESP32)
+
+- [PCB Design](https://github.com/jegor377/mini-car/tree/main)
+- [Controller program](https://github.com/jegor377/mini-car-brain)
+
+The project focuses on building a small autonomous vehicle capable of navigating a predefined route with high positional accuracy. The initial goal is to reach the target location with an arrival error on the order of a few centimeters, acknowledging that millimeter-level precision is beyond the current scope.
+
+The system allows for free control mode and preprogrammed path execution mode. The vehicle chassis is fully designed in CAD and manufactured on a 3D printer. The electronics are implemented on a custom PCB built around an ESP32 microcontroller, an H-bridge motor driver (TBXXXX), a lithium-ion battery, and a charging system made with XXX and charging protection using YYY. An accelerometer is included in the hardware design, although it provides limited practical value due to drift and measurement noise; future revisions will incorporate a wheel encoder to achieve reliable odometry and improve navigation accuracy.
+
+## Demo website (HTML, CSS, JS)
+
+## TURBO BOUNCE (Godot, GDScript)
+
+Link: [TURBO BOUNCE](https://igorasbarbarian.itch.io/turbobounce)
+
+A pong like game with a twist. There are perks on the map that can enhance the behaviour of the ball of the player's paddle in an unpredictable way! Players have healthbars and the game goes in rounds. The player, that has won more rounds, wins the whole match.
+
+## GIF library made from scratch (Godot, GDScript)
+
+Link: [GD GIF Exporter](https://github.com/jegor377/godot-gdgifexporter)
+
+A GIF library for Godot that allows for creating GIF files with and without animations. It's made completely from scratch using only GDScript and reading original GIF documentation. Creating the project in GDScript allows for great portability. The code works across many platforms.
+
+## Procedural animation implementation (Godot, GDScript)
+
+## Gym app (Dart)
+
+## CLI task orchestration tool (Python)
+
+## BF compiler (C++)
+
 # 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IgorSantarek) 
 
