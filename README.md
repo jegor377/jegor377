@@ -12,7 +12,7 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 The project explores machine-learning approaches to classifying the truthfulness of text. It evaluates whether augmenting the input with automatically generated content can improve classification performance. The system uses a RoBERTa-based encoder, and the generated content consists of synthesized articles derived from the original input. The project also includes a demo application for testing and demonstrating the solution.
 
-## Small autonomous vehicles (C++, Embedeed, ESP32)
+## Small autonomous vehicles (C++, Embedded, ESP32)
 
 - [PCB Design](https://github.com/jegor377/mini-car/tree/main)
 - [Controller program](https://github.com/jegor377/mini-car-brain)
