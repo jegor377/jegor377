@@ -12,6 +12,10 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 - [Programmable Vehicle](https://github.com/jegor377/programmable-vehicle) (PCB Design, Embedded, CAD Design)
 
+## Security
+
+- [Cryptography Algorithms Implementation and Analysis](https://github.com/jegor377/kryptografia)
+
 ## Frontend
 
 - [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JS)
