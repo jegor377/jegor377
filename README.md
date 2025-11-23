@@ -6,7 +6,7 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 ## ML
 
-- [Engineering Thesis](https://github.com/jegor377/engineering_thesis) (ML, Python, MLOps)
+- [Engineering Thesis](https://github.com/jegor377/engineering_thesis) (ML, Python, MLOps, PyTorch)
 
 ## Embedded
 
