@@ -56,12 +56,6 @@ Link: [tasks](https://github.com/jegor377/tasks)
 
 Small and powerful CLI tool that allows you to make recursive todo lists and enables time cost estimation.
 
-## BF compiler (C++)
-
-Link: [BF Compiler](https://github.com/jegor377/BrainfuckCompiler)
-
-A compiler for BF language. It works by creating Assembly code for the BF code and then compiles the Assembly code with its compiler.
-
 # 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IgorSantarek) 
 
