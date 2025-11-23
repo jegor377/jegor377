@@ -4,7 +4,7 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 # 🦾 My work
 
-Please, navigate into the project's repository to learn more. Each project has a description in README.md. First paragraph is the nutshell of the project.
+Please, navigate into the project's repository to learn more. Each project has a description in `README.md`. First paragraph is the nutshell of the project.
 
 ## ML
 
