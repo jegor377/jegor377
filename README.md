@@ -12,10 +12,6 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 - [Programmable Vehicle](https://github.com/jegor377/programmable-vehicle) (PCB Design, Embedded, CAD Design)
 
-## Security
-
-- [Cryptography Algorithms Implementation and Analysis](https://github.com/jegor377/kryptografia)
-
 ## Frontend
 
 - [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JS)
@@ -34,6 +30,10 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 - [GD GIF Exporter](https://github.com/jegor377/godot-gdgifexporter) (Godot, GDScript)
 - [tasks](https://github.com/jegor377/tasks) (Python)
+
+## Security
+
+- [Cryptography Exercises](https://github.com/jegor377/kryptografia)
 
 ## FOSS Contributions
 
