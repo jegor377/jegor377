@@ -6,9 +6,7 @@ I am an engineer at heart and a senior software developer with years of commerci
 
 ## My engineering thesis (NLP, ML, AI, Python)
 
-- Thesis
-- [Exploratory data analysis](https://github.com/jegor377/liar_plus_analysis)
-- [Classifier](https://github.com/jegor377/thesis_classifier)
+Link: [Engineering Thesis](https://github.com/jegor377/engineering_thesis)
 
 The project explores machine-learning approaches to classifying the truthfulness of text. It evaluates whether augmenting the input with automatically generated content can improve classification performance. The system uses a RoBERTa-based encoder, and the generated content consists of synthesized articles derived from the original input. The project also includes a demo application for testing and demonstrating the solution.
 
