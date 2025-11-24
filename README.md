@@ -28,14 +28,14 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 - [Smart Coach](https://github.com/jegor377/SmartCoach) (Flutter, Dart)
 
-## Other
-
-- [GD GIF Exporter](https://github.com/jegor377/godot-gdgifexporter) (Godot, GDScript)
-- [tasks](https://github.com/jegor377/tasks) (Python)
-
 ## Security
 
 - [Cryptography Exercises](https://github.com/jegor377/kryptografia)
+
+## General
+
+- [GD GIF Exporter](https://github.com/jegor377/godot-gdgifexporter) (Godot, GDScript)
+- [tasks](https://github.com/jegor377/tasks) (Python)
 
 ## FOSS Contributions
 
