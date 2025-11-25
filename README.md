@@ -51,7 +51,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 # 💻 Tech Stack:
 
 ## Primary Stack
-Python, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, React, Docker, Git, Linux, PyTorch
+Python, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, Electron, React, Docker, Git, Linux, PyTorch
 
 ## Experienced with
 C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, Hive, scikit-learn, MLFlow, DVC, CUDA, Go, Groovy, Godot, KiCad, ESP32 (Practical & datasheet knowledge)
