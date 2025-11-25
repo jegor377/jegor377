@@ -65,4 +65,4 @@ C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, H
 GitHub Actions, Nginx, Postman, Anaconda, Node.js, NPM/Yarn, Bitbucket, draw.io, Bash
 
 ## Other
-Blender, OpenSCAD, Plotly, Inkscape, WordPress, Autodesk Inventor, Selenium, STM32 (Minimal knowledge), Jetpack Compose, Dynamics 365 Business Central (Admin & AL Development)
+Blender, OpenSCAD, Plotly, Inkscape, WordPress, Autodesk Inventor, Selenium, STM32 (Basic knowledge), Jetpack Compose, AL, Dynamics 365 Business Central (Admin & AL Development)
