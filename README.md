@@ -19,14 +19,20 @@ Please, navigate into the project's repository to learn more. Each project has a
 - [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JS)
 - [Inner Beauty website](https://github.com/jegor377/inner-beauty-website) (HTML, CSS, JS)
 
+## Backend
+
+- [FIA Project](https://github.com/jegor377/projekt_pai_php)
+
 ## Gamedev
 
 - [TURBO BOUNCE](https://igorasbarbarian.itch.io/turbobounce) (Godot, GDScript)
 - [Procedural Walk Animation Video](https://www.youtube.com/watch?v=8DCk9hhp9GA), [Code](https://github.com/jegor377/ProceduralWalk) (Godot, GDScript)
+- [PJR Engine](https://github.com/jegor377/PJREngine), [PJR Compiler](https://github.com/jegor377/PJRCompiler) (Go)
 
 ## Mobile
 
-- [Smart Coach](https://github.com/jegor377/SmartCoach) (Flutter, Dart)
+- [Smart Coach](https://github.com/jegor377/SmartCoach) (Dart, Flutter)
+- [Premiery](https://github.com/jegor377/premiery) (Kotlin, Jetpack Compose)
 
 ## Security
 
@@ -36,6 +42,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 - [GD GIF Exporter](https://github.com/jegor377/godot-gdgifexporter) (Godot, GDScript)
 - [tasks](https://github.com/jegor377/tasks) (Python)
+- [GCode Reader](https://github.com/jegor377/gcode_reader/tree/main) (C)
 
 ## FOSS Contributions
 
@@ -53,4 +60,4 @@ C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, H
 GitHub Actions, Nginx, Postman, Anaconda, Node.js, NPM/Yarn, Bitbucket, draw.io, Bash
 
 ## Other
-Blender, OpenSCAD, Plotly, Inkscape, WordPress, Autodesk Inventor, Selenium, STM32 (Minimal knowledge)
+Blender, OpenSCAD, Plotly, Inkscape, WordPress, Autodesk Inventor, Selenium, STM32 (Minimal knowledge), Jetpack Compose
