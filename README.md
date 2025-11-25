@@ -2,7 +2,7 @@
 
 I am an engineer at heart and a senior software developer with years of commercial experience in building and maintaining IT systems. Besides programming, I also have skills in CAD, PCB design, and 3D modeling. I'm a quick learner and my adaptability to different tech stacks enables me to tackle diverse challenges. I’m detail-oriented and can visualize solutions, which improves teamwork. In free time I expand my knowledge in different topics. My favourite topic is ML and NLP.
 
-# 🦾 My work
+# 🦾 Projects
 
 Please, navigate into the project's repository to learn more. Each project has a description in `README.md`. First paragraph is the nutshell of the project.
 
