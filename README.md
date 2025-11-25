@@ -14,6 +14,10 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 - [Programmable Vehicle](https://github.com/jegor377/programmable-vehicle) (PCB Design, Embedded, CAD Design)
 
+## ERP
+
+- [Industry 4.0 Project](https://github.com/jegor377/Industry-4.0-Project) (AL, XLF, Dynamics 365 Business Central)
+
 ## Frontend
 
 - [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JavaScript)
