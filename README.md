@@ -16,12 +16,13 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 ## Frontend
 
-- [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JS)
-- [Inner Beauty website](https://github.com/jegor377/inner-beauty-website) (HTML, CSS, JS)
+- [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JavaScript)
+- [Inner Beauty website](https://github.com/jegor377/inner-beauty-website) (HTML, CSS, JavaScript)
 
 ## Backend
 
-- [FIA Project](https://github.com/jegor377/projekt_pai_php)
+- [FIA Project](https://github.com/jegor377/projekt_pai_php) (PHP, HTML, CSS, JavaScript)
+- [Premiery Backend](https://github.com/jegor377/am_projekt_backend) (Python, Flask, SQLite)
 
 ## Gamedev
 
