@@ -37,7 +37,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 ## Security
 
-- [Cryptography Exercises](https://github.com/jegor377/kryptografia)
+- [Cryptography Exercises](https://github.com/jegor377/kryptografia) (Python)
 
 ## General
 
