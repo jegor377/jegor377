@@ -8,7 +8,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 ## ML
 
-- [Volta — ML Inference API Platform](https://github.com/jegor377/mlops-project) (Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Kubernetes, ArgoCD, Argo Rollouts, Terraform, GKE, Docker, GitHub Actions)
+- [Volta — ML Inference API Platform](https://github.com/jegor377/mlops-project) (Python, FastAPI, PostgreSQL, Redis, React, React Router, TypeScript, Kubernetes, ArgoCD, Argo Rollouts, Terraform, GKE, Docker, GitHub Actions, SQLAlchemy, Alembic, OAuth2, HuggingFace Transformers, pytest, Traefik)
 - [Engineering Thesis](https://github.com/jegor377/engineering_thesis) (ML, Python, MLOps, PyTorch)
 
 ## Embedded
@@ -57,10 +57,10 @@ Please, navigate into the project's repository to learn more. Each project has a
 # 💻 Tech Stack:
 
 ## Primary Stack
-Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Kubernetes, Docker, Terraform, GitHub Actions, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, Electron, Git, Linux, PyTorch
+Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Kubernetes, Docker, Terraform, GitHub Actions, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, Electron, Git, Linux, PyTorch, SQLAlchemy, Alembic, Pydantic, pytest
 
 ## Experienced with
-C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, Hive, scikit-learn, MLFlow, DVC, CUDA, Go, Groovy, Godot, KiCad, ESP32 (Practical & datasheet knowledge)
+C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, Hive, scikit-learn, MLFlow, DVC, CUDA, Go, Groovy, Godot, KiCad, ESP32 (Practical & datasheet knowledge), Traefik
 
 ## Tools & Platforms
 ArgoCD, Argo Rollouts, Kustomize, GKE, kind, Tilt, GitHub Actions, Nginx, Postman, Anaconda, Node.js, NPM/Yarn, Bitbucket, draw.io, Bash
