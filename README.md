@@ -26,6 +26,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 ## Backend
 
+- [mcp-dev-utils](https://github.com/jegor377/mcp-dev-utils) (Python, MCP)
 - [FIA Project](https://github.com/jegor377/projekt_pai_php) (PHP, HTML, CSS, JavaScript)
 - [Premiery Backend](https://github.com/jegor377/am_projekt_backend) (Python, Flask, SQLite)
 
@@ -57,7 +58,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 # 💻 Tech Stack:
 
 ## Primary Stack
-Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Kubernetes, Docker, Terraform, GitHub Actions, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, Electron, Git, Linux, PyTorch, SQLAlchemy, Alembic, Pydantic, pytest
+Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Kubernetes, Docker, Terraform, GitHub Actions, C#, ASP.NET Core, PHP, MariaDB/MySQL, SQLite, JavaScript, Electron, Git, Linux, PyTorch, SQLAlchemy, Alembic, Pydantic, pytest, MCP
 
 ## Experienced with
 C, C++, Java, Kotlin, Dart, Flutter, PL/SQL, Flask, Hadoop, Spark, Delta Lake, Hive, scikit-learn, MLFlow, DVC, CUDA, Go, Groovy, Godot, KiCad, ESP32 (Practical & datasheet knowledge), Traefik
