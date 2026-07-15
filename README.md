@@ -10,7 +10,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 - [Volta — ML Inference API Platform](https://github.com/jegor377/mlops-project) (MLOps, GitOps, DevOps, IaC, Python, FastAPI, PostgreSQL, Redis, React, React Router, TypeScript, Kubernetes, ArgoCD, Argo Rollouts, Terraform, GKE, Docker, GitHub Actions, SQLAlchemy, Alembic, OAuth2, HuggingFace Transformers, pytest, Traefik)
 - [Engineering Thesis](https://github.com/jegor377/engineering_thesis) (ML, Python, MLOps, PyTorch)
-- [Job Resume Customization Tool](https://github.com/jegor377/job-resume-customization-tool) (LangChain, LangGraph, Streamlit)
+- [Job Resume Customization Tool](https://github.com/jegor377/job-resume-customization-tool) (LangChain, LangGraph, Streamlit, Ollama)
 
 ## Embedded
 
