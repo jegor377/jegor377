@@ -24,7 +24,7 @@ Please, navigate into the project's repository to learn more. Each project has a
 
 - [Pierogi website](https://github.com/jegor377/pierogi-website) (HTML, CSS, JavaScript)
 - [Inner Beauty website](https://github.com/jegor377/inner-beauty-website) (HTML, CSS, JavaScript)
-- [Instalacje Winiarczyk](https://github.com/jegor377/electrician-website) (HTML, CSS, JavaScript, Tailwind CSS)
+- [Instalacje Winiarczyk](https://instalacje-winiarczyk.pl) (HTML, CSS, JavaScript, Tailwind CSS)
 
 ## Backend
 
